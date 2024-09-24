@@ -1,0 +1,17 @@
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\bin\Debug\net8.0-windows\TryCatchValidation.exe
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\bin\Debug\net8.0-windows\TryCatchValidation.deps.json
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\bin\Debug\net8.0-windows\TryCatchValidation.runtimeconfig.json
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\bin\Debug\net8.0-windows\TryCatchValidation.dll
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\bin\Debug\net8.0-windows\TryCatchValidation.pdb
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\obj\Debug\net8.0-windows\TryCatchValidation.FrmRegistration.resources
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\obj\Debug\net8.0-windows\TryCatchValidation.frmConfirmation.resources
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\obj\Debug\net8.0-windows\TryCatchValidation.csproj.GenerateResource.cache
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\obj\Debug\net8.0-windows\TryCatchValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\obj\Debug\net8.0-windows\TryCatchValidation.AssemblyInfoInputs.cache
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\obj\Debug\net8.0-windows\TryCatchValidation.AssemblyInfo.cs
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\obj\Debug\net8.0-windows\TryCatchValidation.csproj.CoreCompileInputs.cache
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\obj\Debug\net8.0-windows\TryCatchValidation.dll
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\obj\Debug\net8.0-windows\refint\TryCatchValidation.dll
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\obj\Debug\net8.0-windows\TryCatchValidation.pdb
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\obj\Debug\net8.0-windows\TryCatchValidation.genruntimeconfig.cache
+C:\Users\XoS\source\repos\TryCatchValidation\TryCatchValidation\obj\Debug\net8.0-windows\ref\TryCatchValidation.dll
